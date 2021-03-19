@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="App">
       <h2>
-        Desde aqui
+        Desde aqui trabajamos
       </h2>
     </div>
   );
